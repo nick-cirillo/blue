@@ -8,7 +8,7 @@
             }
         ],
         "totalObjects": 1,
-        "path": "/exhibit/into-the-blue"
+        "path": "/blue/exhibit/into-the-blue"
     },
     "etruscan": {
         "displayName": "Etruscan",
@@ -19,7 +19,7 @@
             }
         ],
         "totalObjects": 1,
-        "path": "/exhibit/etruscan"
+        "path": "/blue/exhibit/etruscan"
     },
     "greece": {
         "displayName": "Greece",
@@ -33,7 +33,7 @@
             }
         ],
         "totalObjects": 2,
-        "path": "/exhibit/greece"
+        "path": "/blue/exhibit/greece"
     },
     "rome": {
         "displayName": "Rome",
@@ -56,7 +56,7 @@
             }
         ],
         "totalObjects": 5,
-        "path": "/exhibit/rome"
+        "path": "/blue/exhibit/rome"
     },
     "eastern-mediterranean": {
         "displayName": "Eastern Mediterranean",
@@ -76,7 +76,7 @@
             }
         ],
         "totalObjects": 4,
-        "path": "/exhibit/eastern-mediterranean"
+        "path": "/blue/exhibit/eastern-mediterranean"
     },
     "asia": {
         "displayName": "Asia",
@@ -90,7 +90,7 @@
             }
         ],
         "totalObjects": 2,
-        "path": "/exhibit/asia"
+        "path": "/blue/exhibit/asia"
     },
     "egypt": {
         "displayName": "Special Exhibition: Egypt",
@@ -107,7 +107,7 @@
             }
         ],
         "totalObjects": 3,
-        "path": "/exhibit/egypt"
+        "path": "/blue/exhibit/egypt"
     },
     "middle-east": {
         "displayName": "Middle East",
@@ -142,7 +142,7 @@
             }
         ],
         "totalObjects": 9,
-        "path": "/exhibit/middle-east"
+        "path": "/blue/exhibit/middle-east"
     },
     "north-america": {
         "displayName": "North America",
@@ -162,7 +162,7 @@
             }
         ],
         "totalObjects": 4,
-        "path": "/exhibit/north-america"
+        "path": "/blue/exhibit/north-america"
     },
     "mexico-central-america": {
         "displayName": "Mexico & Central America",
@@ -173,7 +173,7 @@
             }
         ],
         "totalObjects": 1,
-        "path": "/exhibit/mexico-central-america"
+        "path": "/blue/exhibit/mexico-central-america"
     },
     "africa": {
         "displayName": "Africa",
@@ -193,7 +193,7 @@
             }
         ],
         "totalObjects": 4,
-        "path": "/exhibit/africa"
+        "path": "/blue/exhibit/africa"
     },
     "assyria": {
         "displayName": "Assyria",
@@ -204,6 +204,6 @@
             }
         ],
         "totalObjects": 1,
-        "path": "/exhibit/assyria"
+        "path": "/blue/exhibit/assyria"
     }
 }
